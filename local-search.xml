@@ -9,6 +9,12 @@
     <url>/2025/01/14/%E6%88%91%E7%9A%84/2024-11-10-%E9%9A%8F%E7%AC%94/</url>
     
     
+    <categories>
+      
+      <category>我的</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -25,6 +31,12 @@
     <link href="/2025/01/14/%E6%88%91%E7%9A%84/2024-11-04-%E9%9A%8F%E7%AC%94/"/>
     <url>/2025/01/14/%E6%88%91%E7%9A%84/2024-11-04-%E9%9A%8F%E7%AC%94/</url>
     
+    
+    <categories>
+      
+      <category>我的</category>
+      
+    </categories>
     
     
     <tags>
@@ -43,10 +55,16 @@
     <url>/2025/01/14/%E6%88%91%E7%9A%84/%E6%9C%AC%E7%A7%91%E5%B1%A5%E5%8E%86/</url>
     
     
+    <categories>
+      
+      <category>我的</category>
+      
+    </categories>
+    
     
     <tags>
       
-      <tag>我的</tag>
+      <tag>个人记录</tag>
       
     </tags>
     
@@ -56,9 +74,17 @@
   
   <entry>
     <title>微信小程序开发</title>
-    <link href="/2025/01/14/%E5%85%B6%E4%BB%96%E8%BD%AF%E4%BB%B6/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    <url>/2025/01/14/%E5%85%B6%E4%BB%96%E8%BD%AF%E4%BB%B6/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</url>
+    <link href="/2025/01/14/%E5%85%B6%E4%BB%96%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <url>/2025/01/14/%E5%85%B6%E4%BB%96%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>其他软件开发</category>
+      
+    </categories>
     
     
     <tags>
@@ -77,6 +103,14 @@
     <url>/2025/01/14/Java/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%9D%E6%83%B3/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>Java</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -93,6 +127,14 @@
     <link href="/2025/01/14/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     <url>/2025/01/14/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>Java</category>
+      
+    </categories>
     
     
     <tags>
@@ -111,6 +153,14 @@
     <url>/2025/01/14/Java/Java-basic/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>Java</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -128,6 +178,14 @@
     <url>/2025/01/14/Java/Java-GUI/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>Java</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -140,10 +198,18 @@
   
   
   <entry>
-    <title>Git学习笔记</title>
-    <link href="/2025/01/14/%E5%85%B6%E4%BB%96%E8%BD%AF%E4%BB%B6/Git/"/>
-    <url>/2025/01/14/%E5%85%B6%E4%BB%96%E8%BD%AF%E4%BB%B6/Git/</url>
+    <title>Git</title>
+    <link href="/2025/01/14/%E5%85%B6%E4%BB%96%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/Git/"/>
+    <url>/2025/01/14/%E5%85%B6%E4%BB%96%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/Git/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>其他软件开发</category>
+      
+    </categories>
     
     
     <tags>
@@ -162,6 +228,14 @@
     <url>/2025/01/14/Java/JavaWeb/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>Java</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -178,6 +252,14 @@
     <link href="/2025/01/13/%E9%A2%98%E8%A7%A3/RAICOM-CAIP/2024-%E5%9B%BD%E8%B5%9B/"/>
     <url>/2025/01/13/%E9%A2%98%E8%A7%A3/RAICOM-CAIP/2024-%E5%9B%BD%E8%B5%9B/</url>
     
+    
+    <categories>
+      
+      <category>题解</category>
+      
+      <category>CAIP</category>
+      
+    </categories>
     
     
     <tags>
@@ -196,6 +278,14 @@
     <url>/2025/01/13/%E9%A2%98%E8%A7%A3/RAICOM-CAIP/2024-%E7%9C%81%E8%B5%9B/</url>
     
     
+    <categories>
+      
+      <category>题解</category>
+      
+      <category>CAIP</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -212,6 +302,14 @@
     <link href="/2025/01/13/%E9%A2%98%E8%A7%A3/RAICOM-CAIP/2023-%E7%9C%81%E8%B5%9B/"/>
     <url>/2025/01/13/%E9%A2%98%E8%A7%A3/RAICOM-CAIP/2023-%E7%9C%81%E8%B5%9B/</url>
     
+    
+    <categories>
+      
+      <category>题解</category>
+      
+      <category>CAIP</category>
+      
+    </categories>
     
     
     <tags>
@@ -230,6 +328,14 @@
     <url>/2025/01/13/%E9%A2%98%E8%A7%A3/RAICOM-CAIP/2022-%E5%9B%BD%E8%B5%9B/</url>
     
     
+    <categories>
+      
+      <category>题解</category>
+      
+      <category>CAIP</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -246,6 +352,14 @@
     <link href="/2025/01/13/%E9%A2%98%E8%A7%A3/RAICOM-CAIP/2022-%E7%9C%81%E8%B5%9B/"/>
     <url>/2025/01/13/%E9%A2%98%E8%A7%A3/RAICOM-CAIP/2022-%E7%9C%81%E8%B5%9B/</url>
     
+    
+    <categories>
+      
+      <category>题解</category>
+      
+      <category>CAIP</category>
+      
+    </categories>
     
     
     <tags>
@@ -264,6 +378,14 @@
     <url>/2025/01/13/%E9%A2%98%E8%A7%A3/RAICOM-CAIP/2021-%E7%9C%81%E8%B5%9B/</url>
     
     
+    <categories>
+      
+      <category>题解</category>
+      
+      <category>CAIP</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -277,9 +399,17 @@
   
   <entry>
     <title>DFS-BFS</title>
-    <link href="/2025/01/13/DFS-BFS/DFS-BFS/"/>
-    <url>/2025/01/13/DFS-BFS/DFS-BFS/</url>
+    <link href="/2025/01/13/%E6%A8%A1%E6%8B%9F/DFS-BFS/"/>
+    <url>/2025/01/13/%E6%A8%A1%E6%8B%9F/DFS-BFS/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>模拟</category>
+      
+    </categories>
     
     
     <tags>
@@ -300,6 +430,14 @@
     <url>/2025/01/13/%E6%95%B0%E8%AE%BA/GCD-LCM/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>数论</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -317,6 +455,14 @@
     <url>/2025/01/13/%E5%85%B6%E4%BB%96%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E9%80%9A%E7%94%A8%E6%8A%80%E5%B7%A7/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>其他算法</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -333,6 +479,14 @@
     <link href="/2025/01/13/%E5%85%B6%E4%BB%96%E7%AE%97%E6%B3%95/%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86/"/>
     <url>/2025/01/13/%E5%85%B6%E4%BB%96%E7%AE%97%E6%B3%95/%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>其他算法</category>
+      
+    </categories>
     
     
     <tags>
@@ -353,6 +507,14 @@
     <url>/2025/01/13/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9C%80%E7%9F%AD%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -369,6 +531,14 @@
     <link href="/2025/01/13/%E6%A8%A1%E6%8B%9F/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/"/>
     <url>/2025/01/13/%E6%A8%A1%E6%8B%9F/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>模拟</category>
+      
+    </categories>
     
     
     <tags>
@@ -387,6 +557,14 @@
     <url>/2025/01/13/%E5%88%86%E6%B2%BB%E3%80%81%E5%87%8F%E6%B2%BB/%E4%BA%8C%E5%88%86%E6%B3%95/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>分治_减治</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -403,6 +581,14 @@
     <link href="/2025/01/13/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/"/>
     <url>/2025/01/13/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>图论</category>
+      
+    </categories>
     
     
     <tags>
@@ -421,6 +607,14 @@
     <url>/2025/01/13/%E5%9B%BE%E8%AE%BA/%E6%9C%80%E7%9F%AD%E8%B7%AF%E9%97%AE%E9%A2%98/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>图论</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -437,6 +631,14 @@
     <link href="/2025/01/13/%E5%9B%BE%E8%AE%BA/%E5%9B%BE%E8%AE%BA%E6%9D%82%E9%A1%B9/"/>
     <url>/2025/01/13/%E5%9B%BE%E8%AE%BA/%E5%9B%BE%E8%AE%BA%E6%9D%82%E9%A1%B9/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>图论</category>
+      
+    </categories>
     
     
     <tags>
@@ -455,6 +657,14 @@
     <url>/2025/01/13/%E5%85%B6%E4%BB%96%E7%AE%97%E6%B3%95/%E6%AE%B5%E9%94%99%E8%AF%AF%E7%9A%84%E5%8F%AF%E8%83%BD%E5%8E%9F%E5%9B%A0/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>其他算法</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -471,6 +681,14 @@
     <link href="/2025/01/13/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/"/>
     <url>/2025/01/13/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>字符串</category>
+      
+    </categories>
     
     
     <tags>
@@ -489,6 +707,14 @@
     <url>/2025/01/13/%E5%85%B6%E4%BB%96%E7%AE%97%E6%B3%95/%E4%BD%8D%E8%BF%90%E7%AE%97/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>其他算法</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -505,6 +731,14 @@
     <link href="/2025/01/13/%E5%85%B6%E4%BB%96%E7%AE%97%E6%B3%95/C%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E5%A4%84%E7%90%86/"/>
     <url>/2025/01/13/%E5%85%B6%E4%BB%96%E7%AE%97%E6%B3%95/C%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E5%A4%84%E7%90%86/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>其他算法</category>
+      
+    </categories>
     
     
     <tags>
@@ -523,6 +757,14 @@
     <url>/2025/01/13/%E5%85%B6%E4%BB%96%E7%AE%97%E6%B3%95/CPP%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E5%A4%84%E7%90%86/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>其他算法</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -540,6 +782,14 @@
     <url>/2025/01/13/%E6%A8%A1%E6%8B%9F/%E6%8E%92%E5%BA%8F%E6%B1%87%E6%80%BB/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>模拟</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -556,6 +806,14 @@
     <link href="/2025/01/12/%E5%88%86%E6%B2%BB%E3%80%81%E5%87%8F%E6%B2%BB/%E5%BF%AB%E9%80%9F%E5%B9%82/"/>
     <url>/2025/01/12/%E5%88%86%E6%B2%BB%E3%80%81%E5%87%8F%E6%B2%BB/%E5%BF%AB%E9%80%9F%E5%B9%82/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>分治_减治</category>
+      
+    </categories>
     
     
     <tags>
@@ -576,6 +834,14 @@
     <url>/2025/01/12/%E6%A8%A1%E6%8B%9F/%E9%AB%98%E7%B2%BE%E5%BA%A6-%E5%8A%A0%E5%87%8F%E4%B9%98/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>模拟</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -592,6 +858,14 @@
     <link href="/2025/01/12/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95/"/>
     <url>/2025/01/12/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>字符串</category>
+      
+    </categories>
     
     
     <tags>
@@ -610,6 +884,14 @@
     <url>/2025/01/12/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95%E5%9F%BA%E7%A1%80/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>计算几何</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -626,6 +908,14 @@
     <link href="/2025/01/12/%E5%88%86%E6%B2%BB%E3%80%81%E5%87%8F%E6%B2%BB/%E5%B9%B3%E9%9D%A2%E6%9C%80%E8%BF%91%E7%82%B9%E5%AF%B9/"/>
     <url>/2025/01/12/%E5%88%86%E6%B2%BB%E3%80%81%E5%87%8F%E6%B2%BB/%E5%B9%B3%E9%9D%A2%E6%9C%80%E8%BF%91%E7%82%B9%E5%AF%B9/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>分治_减治</category>
+      
+    </categories>
     
     
     <tags>
@@ -644,6 +934,14 @@
     <url>/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E7%8A%B6%E5%8E%8BDP/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -660,6 +958,14 @@
     <link href="/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%A0%91%E5%BD%A2DP/"/>
     <url>/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%A0%91%E5%BD%A2DP/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
     
     
     <tags>
@@ -678,6 +984,14 @@
     <url>/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%8C%BA%E9%97%B4DP/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -694,6 +1008,14 @@
     <link href="/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9C%9F%E6%9C%9BDP/"/>
     <url>/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9C%9F%E6%9C%9BDP/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
     
     
     <tags>
@@ -712,6 +1034,14 @@
     <url>/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/DP%E5%9F%BA%E7%A1%80/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -728,6 +1058,14 @@
     <link href="/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2%E9%97%AE%E9%A2%98/"/>
     <url>/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2%E9%97%AE%E9%A2%98/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
     
     
     <tags>
@@ -746,6 +1084,14 @@
     <url>/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -762,6 +1108,14 @@
     <link href="/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/LIS%E5%92%8CLCS/"/>
     <url>/2025/01/12/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/LIS%E5%92%8CLCS/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
     
     
     <tags>
@@ -780,6 +1134,14 @@
     <url>/2025/01/12/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/STL%E5%AE%B9%E5%99%A8%E6%B1%87%E6%80%BB/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>数据结构</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -796,6 +1158,14 @@
     <link href="/2025/01/12/%E5%9B%BE%E8%AE%BA/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
     <url>/2025/01/12/%E5%9B%BE%E8%AE%BA/%E5%B9%B6%E6%9F%A5%E9%9B%86/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>图论</category>
+      
+    </categories>
     
     
     <tags>
@@ -814,6 +1184,14 @@
     <url>/2025/01/12/%E6%95%B0%E8%AE%BA/%E8%B4%A8%E6%95%B0%E7%AD%9B/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>数论</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -831,6 +1209,14 @@
     <url>/2025/01/12/%E6%A8%A1%E6%8B%9F/%E5%BA%B7%E6%89%98%E5%B1%95%E5%BC%80/</url>
     
     
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>模拟</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -847,6 +1233,14 @@
     <link href="/2025/01/12/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%AE%97%E6%B3%95%E5%90%88%E9%9B%86/"/>
     <url>/2025/01/12/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%AE%97%E6%B3%95%E5%90%88%E9%9B%86/</url>
     
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+      <category>数据结构</category>
+      
+    </categories>
     
     
     <tags>
