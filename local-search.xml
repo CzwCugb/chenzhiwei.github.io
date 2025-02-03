@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>Acwing算法提高课：动态规划2-最长上升子序列</title>
+    <link href="/%E9%A2%98%E8%A7%A3/Acwing/Acwing-DP-2/"/>
+    <url>/%E9%A2%98%E8%A7%A3/Acwing/Acwing-DP-2/</url>
+    
+    
+    <categories>
+      
+      <category>题解</category>
+      
+      <category>Acwing</category>
+      
+      <category>动态规划</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>动态规划</tag>
+      
+      <tag>Acwing</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Acwing算法提高课：动态规划1-数字三角形模型</title>
     <link href="/%E9%A2%98%E8%A7%A3/Acwing/Acwing-DP-1/"/>
     <url>/%E9%A2%98%E8%A7%A3/Acwing/Acwing-DP-1/</url>
@@ -22,7 +51,7 @@
     
     <tags>
       
-      <tag>规划</tag>
+      <tag>动态规划</tag>
       
       <tag>Acwing</tag>
       
